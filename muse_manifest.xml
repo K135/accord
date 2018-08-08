@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.com" resolutions="1x" timestamp="1533676867261">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.com" resolutions="1x" timestamp="1533726740375">
   <folder name="css">
     <file name="site_global.css" crc="31777617"/>
-    <file name="master_a-master.css" crc="4278003723" ref="other-services:laptops:desktop:contact-us:index"/>
-    <file name="other-services.css" crc="3792772841" ref="other-services"/>
-    <file name="laptops.css" crc="47283851" ref="laptops"/>
-    <file name="desktop.css" crc="3792772841" ref="desktop"/>
-    <file name="contact-us.css" crc="241840780" ref="contact-us"/>
-    <file name="index.css" crc="4273010172" ref="index"/>
+    <file name="master_a-master.css" crc="536170189" ref="other-services:laptops:desktop:contact-us:index"/>
+    <file name="other-services.css" crc="358358279" ref="other-services"/>
+    <file name="laptops.css" crc="397121673" ref="laptops"/>
+    <file name="desktop.css" crc="358358279" ref="desktop"/>
+    <file name="contact-us.css" crc="3761791102" ref="contact-us"/>
+    <file name="index.css" crc="4097386717" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:desktop:other-services:contact-us:laptops"/>
@@ -141,8 +141,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="accord laptop.png" crc="4207276365" ref="index">
       <caption webpage="index" alt=""/>
@@ -154,10 +154,10 @@
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="services-systems-min.jpg" crc="95247115" seo="true" ref="index:desktop:other-services:contact-us:laptops">
       <caption webpage="index" alt=""/>
@@ -166,10 +166,10 @@
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="green-splash-png-3.png" crc="499583139" ref="index">
       <caption webpage="index" alt=""/>
@@ -179,8 +179,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="pred1-min117x74.png" crc="4283489051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -190,15 +190,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="183b149830549b19fa104048d07c72d7-crop-u15631.jpg" crc="3903669114" seo="true" ref="index:desktop:other-services:contact-us:laptops">
       <caption webpage="index" alt=""/>
       <caption webpage="other-services" alt=""/>
       <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
       <caption webpage="desktop" alt=""/>
+      <caption webpage="laptops" alt=""/>
     </file>
     <file name="call-now.gif" crc="4261625131" seo="true" ref="contact-us">
       <caption webpage="contact-us" alt=""/>
@@ -372,9 +372,9 @@
       <caption webpage="laptops" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4204652618" seo="true" mt="1533670040655" redirect="true"/>
-  <file name="desktop.html" crc="4013589873" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="other-services.html" crc="4198458983" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="contact-us.html" crc="268925672" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="laptops.html" crc="3984886921" seo="true" mt="1533676238553" redirect="true"/>
+  <file name="index.html" crc="467623719" seo="true" mt="1533726624702" redirect="true"/>
+  <file name="desktop.html" crc="261403815" seo="true" mt="1533726624702" redirect="true"/>
+  <file name="other-services.html" crc="181348619" seo="true" mt="1533726624702" redirect="true"/>
+  <file name="contact-us.html" crc="337185459" seo="true" mt="1533726624702" redirect="true"/>
+  <file name="laptops.html" crc="4050485153" seo="true" mt="1533726624702" redirect="true"/>
 </manifest>
